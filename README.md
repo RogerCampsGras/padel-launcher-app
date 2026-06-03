@@ -12,6 +12,13 @@ L’aplicació permet enviar consignes de velocitat, efecte i orientació al sis
 - Control de l’orientació vertical i horitzontal.
 - Activació i aturada del sistema.
 
+## Aplicació mòbil per Android
+
+Aquest enllaç és per descarregar l'aplicació directe:
+https://drive.google.com/file/d/1DsKB3lhLMiTjD9r5X8S7pzhMMVnOy2Et/view?usp=drive_link
+
+Mentre que aquest altre és tot el conjunt de fitxers que l'engloba:
+https://drive.google.com/file/d/10n6nP3mQecVb071CV9cQnJihCZtQQiqF/view?usp=drive_link
 ## Autor
 
 Roger Camps
